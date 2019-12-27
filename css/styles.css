@@ -1,0 +1,56 @@
+h1  {
+    margin-top:1cm;
+    margin-bottom:1cm;
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+   font-family: 'Roboto Slab', serif;;
+    font-stretch: wider;
+}
+
+h1{
+ font-family: 'Abril Fatface', cursive;
+}
+
+h2{
+    text-align: center;
+    margin-top:1cm;
+    
+}
+#hola {
+    margin-top:1cm;
+    font-size:0.60cm;
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2cm;
+    text-align: center;
+}
+p{
+    font-family: 'Roboto Slab', serif;
+    font-size: 0.75cm;
+    margin-top: 1cm;
+    text-align: center;
+}
+
+    
+.form-group{
+    margin-left: 5cm;
+}
+
+.enviar{
+    margin-left: 5cm;
+}
+
+.form-check{
+    margin-left: 7cm;
+}
+
+.btn-primary{
+   margin-left:7cm;
+}
+
+
